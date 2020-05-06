@@ -25,3 +25,4 @@ public class oppgave2_1 {
         arrayer(liste3);
     }
 }
+// ee
